@@ -1,4 +1,5 @@
-﻿spring: 
+﻿foo: foo3 
+spring: 
   profiles:
     active:
     - dev
