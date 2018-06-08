@@ -42,7 +42,7 @@ info:
   build.version: $project.version$
 ---
 server:
-  port: 8001
+  port: 8002
 spring: 
    profiles: test
    application: 
@@ -71,7 +71,7 @@ eureka:
     service-url: 
       defaultZone: http://eureka7001.com:7001/eureka
   instance:
-    instance-id: dept-8001.com
+    instance-id: dept-8002.com
     prefer-ip-address: true
  
 info:
