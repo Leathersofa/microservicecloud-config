@@ -1,4 +1,4 @@
-﻿foo: foo8888888
+﻿foo: foo999
 spring: 
   profiles:
     active:
